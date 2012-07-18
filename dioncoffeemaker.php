@@ -288,4 +288,4 @@ class DionCoffeeMaker extends Coffee implements CoffeeBean {
 
 
 
-$my_morning_coffee = new DionCoffeeMaker(array('surup' => 'almodnd'));
+$my_morning_coffee = new DionCoffeeMaker(array('surup' => 'almond'));
