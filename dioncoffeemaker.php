@@ -2,7 +2,6 @@
 
 
 abstract class Coffee {  
-
 	//final coffee
 	public $coffee;
 	//bool
